@@ -56,7 +56,11 @@ Extend your setup with support for popular accessories and integrations.
   - PANDA Knomi  
 - **WLED**  
 - **Sinilink**  
-- **External Cameras** (HTTP, RTSP, RTSPS, TCP (JPEG))
+- **External Cameras**
+  - HTTP
+  - RTSP
+  - RTSPS
+  - TCP (JPEG)
 
 ---
 
