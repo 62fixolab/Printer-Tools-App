@@ -19,7 +19,7 @@ Explore the advanced features that will make your experience unique.
 Monitor your prints in real time with detailed information such as remaining layers, estimated time, nozzle, chamber, and bed temperatures.
 
 #### Cameras  
-View your prints live with support for external cameras using **HTTP, RTSP, and RTSPS** protocols.
+View your prints live with support for external cameras using **HTTP, RTSP, RTSP, RTSPS, TCP (JPEG), WebRTC** protocols.
 
 #### Multiple printers  
 Manage 3D printers from different brands in a single app — ideal for users with multiple printers or full print farms.
