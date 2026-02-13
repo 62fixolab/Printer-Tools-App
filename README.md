@@ -6,7 +6,7 @@
 
 # Printer Tools App
 
-The definitive dashboard for your 3D printer. Connect printers from BambuLab, Klipper, OctoPrint and Creality from anywhere.
+The definitive dashboard for your 3D printer. Connect printers from BambuLab, Klipper, OctoPrint, Creality and Snapmaker from anywhere.
 
 [![Printer Tools App Screenshot](https://printertools.app/assets/home/en/three-phones.png)](https://printertools.app)
 
@@ -43,6 +43,7 @@ Adaptable components that look amazing on **iOS, iPadOS, macOS, and watchOS**.
   - Fluidd  
 - **OctoPrint**  
 - **Creality**
+- **Snapmaker**
 
 ---
 
@@ -61,6 +62,7 @@ Extend your setup with support for popular accessories and integrations.
   - RTSP
   - RTSPS
   - TCP (JPEG)
+  - WebRTC
 
 ---
 
@@ -89,4 +91,4 @@ Share your prints effortlessly via your favorite messaging apps or export images
 
 ---
 
-© 2025 **FixoLab**. All rights reserved.
+© 2026 **FixoLab**. All rights reserved.
