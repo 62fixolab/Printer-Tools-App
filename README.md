@@ -8,7 +8,7 @@
 
 The definitive dashboard for your 3D printer. Connect printers from BambuLab, Klipper, OctoPrint, Creality and Snapmaker from anywhere.
 
-[![Printer Tools App Screenshot](https://printertools.app/assets/home/en/three-phones.png)](https://printertools.app)
+[![Printer Tools App Screenshot](https://printertools.app/assets/home/en/three-phones.webp)](https://printertools.app)
 
 ---
 
