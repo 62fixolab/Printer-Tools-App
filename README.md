@@ -8,11 +8,12 @@
 
 The definitive dashboard for your 3D printers. Connect Bambu Lab, Klipper, OctoPrint, Creality, Snapmaker, Anycubic, Flashforge, Elegoo and Prusa printers from anywhere.
 
-<p>
-  <a href="https://apps.apple.com/us/app/printer-tools-app/id6745528803">Download on the App Store</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.fixolab.printertools">Get it on Google Play</a> ·
-  <a href="https://printertools.app">printertools.app</a>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/printer-tools-app/id6745528803"><img height="52" src="assets/app-store-badge.svg" alt="Download on the App Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fixolab.printertools"><img height="52" src="assets/google-play-badge.svg" alt="Get it on Google Play"></a>
 </p>
+
+<p align="center"><a href="https://printertools.app">printertools.app</a></p>
 
 [![Printer Tools App Screenshot](Press%20Pack/home/en/three-phones.png)](https://printertools.app)
 
