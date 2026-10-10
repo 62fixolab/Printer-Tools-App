@@ -120,6 +120,8 @@ The [`Press Pack`](Press%20Pack) folder contains official images in **20 languag
 | [`gallery/<lang>/`](Press%20Pack/gallery) | 10 framed iPhone screenshots per language |
 | [`home/<lang>/`](Press%20Pack/home) | `phone-angle.png` and `three-phones.png` renders |
 | [`opengraphs/<lang>/`](Press%20Pack/opengraphs) | Social sharing images for the main pages of the website |
+| [`app-store/<lang>/`](Press%20Pack/app-store) | App Store images: `iphone/` (10, iPhone 6.7"), `ipad/` (9, iPad 12.9") and `watch/` (2, Apple Watch Ultra) |
+| [`google-play/<lang>/`](Press%20Pack/google-play) | 10 Google Play images |
 
 Download everything from the [latest release](https://github.com/62fixolab/Printer-Tools-App/releases/latest).
 
